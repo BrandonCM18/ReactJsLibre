@@ -62,7 +62,6 @@ Ejemplo:
 
 ![Ejemplo](img/CapturaEjemplo.png)
 
-Agregar Receta:
 Video de demostracion:
 
 [![Ver video](img/CapturaEjemplo.png)](https://youtu.be/SyM0qF3Wkp0)
